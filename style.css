@@ -1,0 +1,12 @@
+.b{
+   background-color: blue;
+   color: white;
+}
+.l{
+    color:lawngreen;
+    position:fixed;
+    bottom: 0;
+    background: white;
+    font-size: 20;
+    width:100%;
+}
